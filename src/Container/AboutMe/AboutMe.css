@@ -1,0 +1,25 @@
+.about-me-text{
+    color: orange;
+    font-size: 50px;
+}
+
+.why-text-sub{
+    font-size: 20px;
+}
+
+.text-about-me{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.skills{
+    color: orange;
+}
+
+.list-skills {
+    display: grid;
+  }

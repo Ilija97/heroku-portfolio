@@ -1,0 +1,30 @@
+.primary-text{
+    font-size: 20px;
+}
+
+.secondary-text{
+    font-size: 30px;
+}
+
+.profile-container{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.profile-details{
+    text-align: left;
+    margin-top: 200px;
+}
+
+.learn-more{
+    font-size: 20px;
+    color: orange;
+}
+
+
+.profile-picture img {
+    max-height: 700px;
+    width: 700px;
+    margin: 0 auto;
+    object-fit: contain;
+  }

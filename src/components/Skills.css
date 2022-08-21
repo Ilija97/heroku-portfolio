@@ -1,0 +1,18 @@
+.progress-some{
+    background: gray;
+    height: 20px;
+    width: 250px;
+}
+
+.progress-new{
+    background: orange;
+    height: 20px;
+    /* width: 70%; */
+}
+
+.skill-score{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 10%; 
+    padding-right: 10%;
+}
