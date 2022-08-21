@@ -6,6 +6,7 @@ import AboutMe from './Container/AboutMe/AboutMe';
 import ContactMe from './Container/ContactMe/ContactMe';
 import Projects from './Container/Projects/Projects';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import React from 'react';
 
 
 function App() {
