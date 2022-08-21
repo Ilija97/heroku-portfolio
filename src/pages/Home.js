@@ -3,6 +3,7 @@ import Profile from '../Container/Home/Profile';
 import AboutMe from '../Container/AboutMe/AboutMe';
 import ContactMe from '../Container/ContactMe/ContactMe';
 import Projects from '../Container/Projects/Projects';
+import React from 'react';
 
 
 function Home() {
