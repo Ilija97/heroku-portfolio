@@ -5,7 +5,7 @@ from pyexpat import model
 from re import T
 from sqlite3 import Timestamp
 from tabnanny import verbose
-from tkinter import CASCADE
+from django.db.models.deletion import CASCADE
 from django.db import models
 from django.contrib.auth.models import User
 from django.template.defaultfilters import slugify
