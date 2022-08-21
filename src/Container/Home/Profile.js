@@ -1,5 +1,4 @@
 import React from 'react'
-import Typical from 'react-typical'
 import './Profile.css'
 import axios from 'axios'
 import { useEffect, useState } from 'react'
